@@ -22,5 +22,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 <img src="https://recordit.co/T2bg93mIYZ.gif" width=250><br>
-<img src="https://recordit.co/yBImIruRiw.gif" width=250><br>
-<img src="https://recordit.co/mHX6WET4tP.gif" width=250><br>
+
